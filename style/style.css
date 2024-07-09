@@ -166,3 +166,38 @@ text-align: center;
     width: 349.16px;
     height: 464.65px;
 }
+/* new yark hotel start here*/
+.new-yark-hotel{
+    max-width: 1320px;
+    min-height: 482px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px ;
+    background-color: rgba(255, 0, 0, 0.1);
+    border-radius: 16px;
+}
+.newyark-content{
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+
+}
+#red-color{
+    color: red;
+}
+.btn{
+    font-family: Inter;
+    width: 167px;
+    height: 56px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: none;
+    margin-top: 48px;
+    color:white;
+   font-size:20px ;
+   margin-left: 160px;
+}
